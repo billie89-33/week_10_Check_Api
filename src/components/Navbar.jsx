@@ -10,7 +10,7 @@ const Navbar = () => {
     }`;
 
   return (
-    <nav className="flex justify-items-end items-center gap-4 px-10 py-5">
+    <nav className="flex justify-end items-center gap-4 px-10 py-5 bg-white/80 backdrop-blur-md sticky top-0 z-50 ">
     <NavLink to="/" className={linkstyle}>
     Home
     </NavLink>
