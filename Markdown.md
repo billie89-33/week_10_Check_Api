@@ -20,3 +20,8 @@ section 3 => git commit -m "setup api service"
 
 10. ผมจะไปทำ Custom Hook ที่ดึง memberService.js มันทำ logic เพือแยกส่วนนี้ ออกจากหน้า home เพื่อไม่ให้ code รก
 11. ภายในหน้านี้ ผมใช้  useState ว่างเอาไว้เพื่อรอเก็บค่า และใช้ function ของ setUseState ไปดึงต่า api มาเปลี่ยนค่า  และ รอหน้า home hook ไปใช้
+section 3 =>  git commit -m "setup hook for api"
+
+
+12. เริ่มสร้าง home รวมถึง design ด้วย tailwind และจะ ดึง hook มาใช้ และรองรับ ส่วนแยก ของ component
+section 4 
