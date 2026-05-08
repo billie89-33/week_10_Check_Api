@@ -3,6 +3,9 @@
 import { useState } from 'react';
 import { useMembers } from '../้hooks/useMembers';
 import UserSection from '../components/UserSection';
+import AdminSection from '../components/Admin';
+
+
 
 const Home = () => {
   

@@ -27,6 +27,6 @@ section 3 =>  git commit -m "setup hook for api"
 section 4 => git commit -m "complete Home page logic and Ui"
 13. ผมจากสร้าง compponnet ที่ส่ง ค่า props ไป จากหน้า Home
 14. component user
-section 4.1 => 
+section 4.1 => git commit -m "create Component  Usersector "
 15. component Admin
-section 4.2 => 
+section 4.2 =>  
