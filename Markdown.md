@@ -29,4 +29,7 @@ section 4 => git commit -m "complete Home page logic and Ui"
 14. component user
 section 4.1 => git commit -m "create Component  Usersector "
 15. component Admin
-section 4.2 =>  
+section 4.2 =>  git commit -m "complete component Adminsector and test connect api"
+
+
+16. create pages/Owner 
