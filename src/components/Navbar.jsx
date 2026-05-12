@@ -18,6 +18,10 @@ const Navbar = () => {
     <NavLink to="/Owner" className={linkstyle}>
     Owner
     </NavLink>
+
+    <NavLink to="/Showuser" className={linkstyle}>
+    Showuser
+    </NavLink>
     
     </nav>
   );

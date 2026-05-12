@@ -15,3 +15,9 @@ memberApi.interceptors.response.use(
     return Promise.reject(error);
   }
 );
+
+
+export const localApi = axios.create({
+  baseURL: 'http://localhost:4000', 
+  headers: { 'Content-Type': 'application/json' },
+});
